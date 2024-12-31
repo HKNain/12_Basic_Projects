@@ -34,14 +34,14 @@ Below is the list of projects with their corresponding week and primary language
    - Open your terminal or command prompt.
    - Run the following command:
      ```
-     git clone https://github.com/your-repo-name/52-projects-in-52-weeks.git
+     git clone https://github.com/your-repo-name/52-projects-52-weeks.git
      ```
 
 2. **Navigate to the Directory:**
 
    - Change to the project directory:
      ```
-     cd 52-projects-in-52-weeks
+     cd 52-projects-52-weeks
      ```
 
 3. **Install Dependencies (if any):**
