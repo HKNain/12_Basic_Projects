@@ -6,7 +6,7 @@ Welcome to the **52 Projects, 52 Weeks Repository**! This README outlines the jo
 
 ## About the Repository
 
-The **52 Projects in 52 Weeks** repository is designed to encourage consistent creativity and learning by completing a variety of projects across multiple domains. Each project is different, ranging from different coding challenges, with the intent of expanding your skill set and pushing the boundaries of your creativity.
+The **52 Projects in 52 Weeks** repository is designed to encourage consistent creativity and learning by completing a variety of projects across multiple domains. Each project is different, ranging from different coding challenges, with the intent of expanding your skill set and pushing the boundaries of your creativity. You can see the working of every project under testiing.mp4 file.
 
 ### Objectives
 
