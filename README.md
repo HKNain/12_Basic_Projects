@@ -25,7 +25,7 @@ Below is the list of projects with their corresponding week and primary language
 | ---- | ------------ | ------------------------ |
 | 1    | Calculator   | HTML, CSS, JS            |
 | 2    | Weather App  | HTML, CSS, JS, FETCH API |
-| 3    | ToDo App     | React JS                 |
+| 3    | Flappy Bird  | HTML, CSS, JS            |
 
 ---
 
