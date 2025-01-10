@@ -28,7 +28,7 @@ Below is the list of projects with their corresponding week and primary language
 | 3    | Weather App  | HTML, CSS, JS, FETCH API   |
 | 4    | Flappy Bird  | HTML, CSS, JS              |
 | 5    | Solar System | React JS, THREE JS, Vite   |
-| 5    | Bubble Sort  | HTML, CSS, JS, Bubble Sort |
+| 6    | Bubble Sort  | HTML, CSS, JS, Bubble Sort |
 
 ---
 
