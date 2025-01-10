@@ -21,13 +21,14 @@ The **52 Projects in 52 Weeks** repository is designed to encourage consistent c
 
 Below is the list of projects with their corresponding week and primary language or technology used:
 
-| Week | Project Name | Language/Technology      |
-| ---- | ------------ | ------------------------ |
-| 1    | Calculator   | HTML, CSS, JS            |
-| 2    | To-Do App    | HTML, CSS, JS            |
-| 3    | Weather App  | HTML, CSS, JS, FETCH API |
-| 4    | Flappy Bird  | HTML, CSS, JS            |
-| 5    | Solar System | React JS, THREE JS, Vite |
+| Week | Project Name | Language/Technology        |
+| ---- | ------------ | ---------------------------|
+| 1    | Calculator   | HTML, CSS, JS              |
+| 2    | To-Do App    | HTML, CSS, JS              |
+| 3    | Weather App  | HTML, CSS, JS, FETCH API   |
+| 4    | Flappy Bird  | HTML, CSS, JS              |
+| 5    | Solar System | React JS, THREE JS, Vite   |
+| 5    | Bubble Sort  | HTML, CSS, JS, Bubble Sort |
 
 ---
 
