@@ -31,6 +31,16 @@ Below is the list of projects with their corresponding week and primary language
 
 ---
 
+## Project Description
+
+1. Calculator :- 
+2. To-Do App :-
+3. Weather App :-
+4. Flappy Bird :- 
+5. Solar System :-
+
+---
+
 ## How to Copy This Repository to Your Local Machine
 
 1. **Clone the Repository:**
