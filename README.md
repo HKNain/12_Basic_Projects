@@ -24,9 +24,20 @@ Below is the list of projects with their corresponding week and primary language
 | Week | Project Name | Language/Technology      |
 | ---- | ------------ | ------------------------ |
 | 1    | Calculator   | HTML, CSS, JS            |
-| 2    | Weather App  | HTML, CSS, JS, FETCH API |
-| 3    | Flappy Bird  | HTML, CSS, JS            |
-| 4    | Solar System | React JS, THREE JS, Vite |
+| 2    | To-Do App    | HTML, CSS, JS            |
+| 3    | Weather App  | HTML, CSS, JS, FETCH API |
+| 4    | Flappy Bird  | HTML, CSS, JS            |
+| 5    | Solar System | React JS, THREE JS, Vite |
+
+---
+
+## Project Description
+
+1. Calculator :- 
+2. To-Do App :-
+3. Weather App :-
+4. Flappy Bird :- 
+5. Solar System :-
 
 ---
 
