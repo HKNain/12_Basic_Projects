@@ -1,12 +1,12 @@
-# 52 Projects, 52 Weeks
+# 24 Basic Projects
 
-Welcome to the **52 Projects, 52 Weeks Repository**! This README outlines the journey of completing one unique project each week for an entire year. The goal is to explore diverse domains, enhance skills, and build a robust portfolio.
+Welcome to the **24 Basic Projects Repository**! This README outlines the journey of completing one unique project each fortnight for an entire year. The goal is to explore diverse domains, enhance skills, and build a robust portfolio.
 
 ---
 
 ## About the Repository
 
-The **52 Projects in 52 Weeks** repository is designed to encourage consistent creativity and learning by completing a variety of projects across multiple domains. Each project is different, ranging from different coding challenges, with the intent of expanding your skill set and pushing the boundaries of your creativity. You can see the working of every project under testing.mp4 file.
+The **24 Basic Projects ** repository is designed to encourage consistent creativity and learning by completing a variety of projects across multiple domains. Each project is different, ranging from different coding challenges, with the intent of expanding your skill set and pushing the boundaries of your creativity. You can see the working of every project under testing.mp4 file.
 
 ### Objectives
 
@@ -28,7 +28,7 @@ Below is the list of projects with their corresponding week and primary language
 | 3    | Weather App  | HTML, CSS, JS, FETCH API   |
 | 4    | Flappy Bird  | HTML, CSS, JS              |
 | 5    | Solar System | React JS, THREE JS, Vite   |
-| 5    | Bubble Sort  | HTML, CSS, JS, Bubble Sort |
+| 6    | Bubble Sort  | HTML, CSS, JS, Bubble Sort |
 
 ---
 
@@ -49,14 +49,14 @@ Below is the list of projects with their corresponding week and primary language
    - Open your terminal or command prompt.
    - Run the following command:
      ```
-     git clone https://github.com/your-repo-name/52-projects-52-weeks.git
+     git clone https://github.com/your-repo-name/24-basic-projects.git
      ```
 
 2. **Navigate to the Directory:**
 
    - Change to the project directory:
      ```
-     cd 52-projects-52-weeks
+     cd 24-basic-projects
      ```
 
 3. **Install Dependencies (if any):**
