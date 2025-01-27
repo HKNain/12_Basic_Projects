@@ -1,12 +1,12 @@
-# 24 Basic Projects
+# 12 Basic Projects
 
-Welcome to the **24 Basic Projects Repository**! This README outlines the journey of completing one unique project each fortnight for an entire year. The goal is to explore diverse domains, enhance skills, and build a robust portfolio.
+Welcome to the **12 Basic Projects Repository**! This README outlines the journey of completing one unique project each fortnight for an entire year. The goal is to explore diverse domains, enhance skills, and build a robust portfolio.
 
 ---
 
 ## About the Repository
 
-The **24 Basic Projects** repository is designed to encourage consistent creativity and learning by completing a variety of projects across multiple domains. Each project is different, ranging from different coding challenges, with the intent of expanding your skill set and pushing the boundaries of your creativity. You can see the working of every project under testing.mp4 file.
+The **12 Basic Projects** repository is designed to encourage consistent creativity and learning by completing a variety of projects across multiple domains. Each project is different, ranging from different coding challenges, with the intent of expanding your skill set and pushing the boundaries of your creativity. You can see the working of every project under testing.mp4 file.
 
 ### Objectives
 
