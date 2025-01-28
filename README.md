@@ -21,14 +21,16 @@ The **12 Basic Projects** repository is designed to encourage consistent creativ
 
 Below is the list of projects with their corresponding week and primary language or technology used:
 
-| Week | Project Name | Language/Technology        |
-| ---- | ------------ | ---------------------------|
-| 1    | Calculator   | HTML, CSS, JS              |
-| 2    | To-Do App    | HTML, CSS, JS              |
-| 3    | Weather App  | HTML, CSS, JS, FETCH API   |
-| 4    | Flappy Bird  | HTML, CSS, JS              |
-| 5    | Solar System | React JS, THREE JS, Vite   |
-| 6    | Bubble Sort  | HTML, CSS, JS, Bubble Sort |
+| Week | Project Name    | Language/Technology        |
+| ---- | ------------    | ---------------------------|
+| 1    | Calculator      | HTML, CSS, JS              |
+| 2    | To-Do App       | HTML, CSS, JS              |
+| 3    | Weather App     | HTML, CSS, JS, FETCH API   |
+| 4    | Flappy Bird     | HTML, CSS, JS              |
+| 5    | Solar System    | React JS, THREE JS, Vite   |
+| 6    | Bubble Sort     | HTML, CSS, JS, Bubble Sort |
+| 7    | Stock Management| C (Programing Language)    |
+| 8    | Image Slider    | HTML, CSS                  |
 
 ---
 
@@ -39,7 +41,9 @@ Below is the list of projects with their corresponding week and primary language
 3. Weather App :-  A simple weather app made with HTML, CSS & JS with fetch API for real time weather updates.
 4. Flappy Bird :- Clone of famous game flappy bird.
 5. Solar System :- A 3D Solar System created using Three.js .
-6. Stock Management :- A C program to mantain, edit, delete, view (CRUD) on Stocks.
+6. Bubble Sort Visualizer :- A web app to show working of bubble sort.
+7. Stock Management :- A C program to mantain, edit, delete, view (CRUD) on Stocks.
+8. Image Slider :- A Crazy Image Slider made only on HTML & CSS.
 
 ---
 
