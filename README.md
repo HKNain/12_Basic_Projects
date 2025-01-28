@@ -54,14 +54,14 @@ Below is the list of projects with their corresponding week and primary language
    - Open your terminal or command prompt.
    - Run the following command:
      ```
-     git clone https://github.com/your-repo-name/24-basic-projects.git
+     git clone https://github.com/your-repo-name/12-basic-projects.git
      ```
 
 2. **Navigate to the Directory:**
 
    - Change to the project directory:
      ```
-     cd 24-basic-projects
+     cd 12-basic-projects
      ```
 
 3. **Install Dependencies (if any):**
