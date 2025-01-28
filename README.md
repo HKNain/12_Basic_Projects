@@ -1,6 +1,6 @@
 # 12 Basic Projects
 
-Welcome to the **12 Basic Projects Repository**! This README outlines the journey of completing one unique project each fortnight for an entire year. The goal is to explore diverse domains, enhance skills, and build a robust portfolio.
+Welcome to the **12 Basic Projects Repository**! This README outlines the journey of completing one unique project every month for an entire year. The goal is to explore diverse domains, enhance skills, and build a robust portfolio.
 
 ---
 
