@@ -1,12 +1,12 @@
-# 24 Basic Projects
+# 12 Basic Projects
 
-Welcome to the **24 Basic Projects Repository**! This README outlines the journey of completing one unique project each fortnight for an entire year. The goal is to explore diverse domains, enhance skills, and build a robust portfolio.
+Welcome to the **12 Basic Projects Repository**! This README outlines the journey of completing one unique project each fortnight for an entire year. The goal is to explore diverse domains, enhance skills, and build a robust portfolio.
 
 ---
 
 ## About the Repository
 
-The **24 Basic Projects ** repository is designed to encourage consistent creativity and learning by completing a variety of projects across multiple domains. Each project is different, ranging from different coding challenges, with the intent of expanding your skill set and pushing the boundaries of your creativity. You can see the working of every project under testing.mp4 file.
+The **12 Basic Projects** repository is designed to encourage consistent creativity and learning by completing a variety of projects across multiple domains. Each project is different, ranging from different coding challenges, with the intent of expanding your skill set and pushing the boundaries of your creativity. You can see the working of every project under testing.mp4 file.
 
 ### Objectives
 
@@ -34,11 +34,12 @@ Below is the list of projects with their corresponding week and primary language
 
 ## Project Description
 
-1. Calculator :- 
-2. To-Do App :-
-3. Weather App :-
-4. Flappy Bird :- 
-5. Solar System :-
+1. Calculator :- A simple calculator made with HTML, CSS & JS with no fancy features. 
+2. To-Do App :- A simple to-do app made with HTML, CSS & JS with no fancy features. 
+3. Weather App :-  A simple weather app made with HTML, CSS & JS with fetch API for real time weather updates.
+4. Flappy Bird :- Clone of famous game flappy bird.
+5. Solar System :- A 3D Solar System created using Three.js .
+6. Stock Management :- A C program to mantain, edit, delete, view (CRUD) on Stocks.
 
 ---
 
