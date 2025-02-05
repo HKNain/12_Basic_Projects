@@ -70,5 +70,5 @@ Below is the list of projects with their corresponding week and primary language
 
 ---
 
-Embark on this exciting journey and let’s create something amazing every week!
+Embark on this exciting journey and let’s create something amazing every month!
 
