@@ -21,7 +21,7 @@ The **12 Basic Projects** repository is designed to encourage consistent creativ
 
 Below is the list of projects with their corresponding week and primary language or technology used:
 
-| Week | Project Name       | Language/Technology        |
+| S.No | Project Name       | Language/Technology        |
 | ---- | ---------------    | ---------------------------|
 | 1    | Calculator         | HTML, CSS, JS              |
 | 2    | To-Do App          | HTML, CSS, JS              |
