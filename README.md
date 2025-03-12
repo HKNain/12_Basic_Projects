@@ -34,7 +34,7 @@ Below is the list of projects with their corresponding week and primary language
 | 9    | Color Picker       | HTML, CSS, JS              |
 | 10   | Palindrome Checker | HTML, JS                   |
 | 11   | Random Quote Maker | HTML, JS                   |
-| 12   | Image Slider       | HTML, CSS                  |
+| 12   | Wall Breaker       | HTML, CSS, JS              |
 
 ---
 
@@ -50,7 +50,8 @@ Below is the list of projects with their corresponding week and primary language
 8. Image Slider :- A Crazy Image Slider made only on HTML & CSS.
 9. Color Picker :- A simple color picker showing DOM Application.
 10. Palindrome Checker :- A simple application checking whether the entered string is Palindrome or not.
-11. Rndom Quote Maker :- A program that selects a random quote from array of quotes.
+11. Random Quote Maker :- A program that selects a random quote from array of quotes.
+12. Wall Breaker Game :- A simple game to break all bricks of the wall.
 
 ---
 
